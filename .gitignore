@@ -14,7 +14,3 @@ model/*.part
 # Environment files
 .env
 *.log
-
-# Data (optional, if private)
-data/*.csv
-
